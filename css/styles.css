@@ -234,9 +234,3 @@ border-left: 1px solid var(--800, #1F61AE);
 background: linear-gradient(127deg, var(--950, #183253) 32.9%, #179FA1 120.67%);
 margin-left: 20px;
 }
-.FasterTime management {
-  width: 298px;
-  height: 0px;
-  background: linear-gradient(90deg, rgba(27, 127, 168, 0.00) 0%, #2574D0 100%);
-  
-}
